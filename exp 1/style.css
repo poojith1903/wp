@@ -1,0 +1,27 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.jumbotron {
+    background: url('cafe.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+}
+
+.jumbotron h1 {
+    font-size: 3rem;
+}
+
+section h2 {
+    margin-top: 20px;
+}
+
+footer {
+    background: #f8f9fa;
+}
